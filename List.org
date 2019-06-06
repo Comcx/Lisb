@@ -1,0 +1,69 @@
+#+TITLE:  List of books
+#+AUTHOR: Comcx
+
+
+* [0/27] Computer Science
+** NEXT Structure and Interpretation of Computer Programs
+** TODO From Mathematics to Generic Programming
+** TODO Real World OCaml
+** TODO The Art of the Metaobject Protocol
+** TODO Paradigms of Artificial Intelligence Programming
+** TODO Symbolic Computing contents
+** NEXT Software foundations
+** NEXT Purely functional data structures
+** TODO Seemingly impossible functional programs
+** NEXT Types and Programming Languages
+** TODO Advanced Topics in Types and Programming Languages
+** TODO The essence of ALGOL
+** TODO The Art of the Propagator
+** TODO The Art of Doing Science and Engineering: Learning to Learn
+** TODO Alan Kay: Doing with Images Makes Symbols
+** TODO Powerful Ideas Need Love Too!
+** TODO The Best Way to Predict the Future is to Issue a Press Release
+** TODO The bullet hole misconception
+** TODO The lost medium
+** TODO Stop Drawing Dead Fish
+** TODO The Early History Of Smalltalk
+** TODO The Dream Machine
+** TODO We Would Know What They Thought When They Did It
+** TODO History of Programming Languages
+** TODO The Early Development of Programming Languages
+** TODO There's No Fire Alarm for Artificial General Intelligence
+** TODO Turtle Geometry
+
+* [0/25] Philosophy
+** NEXT Tractatus Logico-Philosophicus
+** TODO Neuromancer
+** TODO A la recherche du temps perdu
+** TODO Confessions
+** TODO Phaedo
+** TODO Discourse on the Origin and foundations on Inequality among mankind
+** TODO Trial and Death of Socrates
+** TODO Surveiller et punir
+** TODO Also sprach Zarathustra
+** TODO Frygt og Bœven. Dialektisk Lyrik af Johannes de Silentio
+** TODO Heart of Darkness Lord Jim
+** NEXT Do Androids Dream of Electric Sheep?
+** TODO The Man in the High Castle
+** TODO Wissenschaft als Beruf und Politik als Beruf
+** TODO Gulliver's Travels
+** TODO The Republic
+** TODO Crime and Punishment
+** NEXT Beyond good and evil
+** TODO Les Pensées : Sur La Religion Et Sur Quelques Autres Sujets
+** TODO Hamlet
+** TODO L'Etre Et Le Neant
+** TODO The sickness unto death
+** NEXT 1984
+** NEXT Animal Farm
+** TODO The Revolt of the Masses
+
+* Neural network
+
+
+
+
+
+
+
+
