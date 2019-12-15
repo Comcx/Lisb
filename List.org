@@ -2,9 +2,9 @@
 #+AUTHOR: Comcx
 
 
-* [0/28] Computer Science
+* Computer Science [0/2]
 
-** Unclassified
+** Unclassified [0/27]
 *** NEXT Structure and Interpretation of Computer Programs
 *** TODO From Mathematics to Generic Programming
 *** TODO Real World OCaml
@@ -33,8 +33,11 @@
 *** TODO There's No Fire Alarm for Artificial General Intelligence
 *** TODO Turtle Geometry
 
-** TODO Category Theory
-*** TODO A Book of Abstract Algebra
+** TODO Algebra [0/2]
+*** TODO A Computational Introduction to Number Theory and Algebra [CA0]
+*** TODO A Book of Abstract Algebra [CA1]
+
+** TODO Category Theory [0/7]
 *** TODO Algebra: Chapter 0
 *** TODO Linear Algebra DONE RIGHT
 *** TODO The Real Numbers An Introduction to Set Theory and Analysis
@@ -43,7 +46,7 @@
 *** TODO Topology
 *** TODO Algebra AIC Topology
 
-* [0/25] Philosophy
+* Philosophy [0/25]
 ** NEXT Tractatus Logico-Philosophicus
 ** TODO Neuromancer
 ** TODO A la recherche du temps perdu

@@ -1,0 +1,39 @@
+#+Title:  Notes of A Computational Introduction to Number Theory and Algebra
+#+Author: Comcx
+#+Date:   <2019-12-15 日>
+
+
+** DONE Notations [5/5]
+*** DONE Sets
+*** DONE Family
+*** DONE Numbers
+*** DONE Functions
+*** DONE Logarithms and exponentials
+
+** NEXT Integers [1/2]
+*** DONE Divisibility
+**** DONE Definition
+**** DONE Propertity
+- Transitive: a | b and b | c => a | c
+- Self: a | a
+- Distributive: a | b and a | c => a | (b + c)
+- Sign: a | b => (-a) | b and a | (-b)
+- Special: forall a, 1 | a and a | 0
+- Size: if a | b then 1 <= |a| <= |b|  
+- Equivalence: a | b and b | a => a = b or a = (-b)
+
+*** NEXT Primality
+_Note_: /whenever we speak of a prime or composite number, we mean a positive integer./ 
+
+**** DONE Definition
+**** DONE Composites => not prime
+**** NEXT *Fundamental theorem of arithmetic*
+_Every integer can be expressed as a unique product of primes_ 
+***** DONE Proof
+****** DONE A basic proof
+The uniqueness proof part is the hard part...
+
+**** TODO Division with remainder property
+
+
+
